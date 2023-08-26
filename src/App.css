@@ -1,0 +1,6 @@
+
+.App {
+  border: solid 5px black;
+  display: flex;
+  gap: 15px;
+}
